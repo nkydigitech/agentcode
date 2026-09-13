@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+config.js
+.env
+*.backup
+.bedrock_agentcore/
